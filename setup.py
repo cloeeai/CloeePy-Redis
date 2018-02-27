@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='CloeePy-Redis',
-    version='0.0.0-rc1',
+    version='0.0.0',
     packages=['cloeepy_redis',],
     package_data = {
         'cloeepy_redis': ['data/*.yml'],
